@@ -1,0 +1,64 @@
+commit 6960ae70d63da0a986173325268c34c08b85432c
+Merge: bff7b9a afa866b
+Author: Kaitlyn Gaxiola <kaitlyngax04@gmail.com>
+Date:   Sat Feb 7 03:34:39 2026 -0800
+
+    Resolved merge conflicts between main and index-fix
+
+commit afa866b8db561c7395de807bda15dc4954ae1316
+Author: Kaitlyn Gaxiola <kaitlyngax04@gmail.com>
+Date:   Sat Feb 7 03:28:44 2026 -0800
+
+    Added favorite movie to index.hmtl
+
+commit bff7b9add0c60e4ae92ec470b92664815636bd16
+Author: Kaitlyn Gaxiola <kaitlyngax04@gmail.com>
+Date:   Sat Feb 7 03:26:38 2026 -0800
+
+    Added favorite food to index.html
+
+commit 22af50474af7d1f297aa710e96d0148f449037c0
+Author: Kaitlyn Gaxiola <kaitlyngax04@gmail.com>
+Date:   Sat Feb 7 02:32:51 2026 -0800
+
+    Add README.md
+
+commit 67fd639fbca12edcfb486e0db55754f18bd02be4
+Author: hauntedtoo <kaitlyngax04@gmail.com>
+Date:   Sat Feb 7 02:03:36 2026 -0800
+
+    Filled in the blanks in index.html
+
+commit 005692bea56525896e5d143a5184d74eff7dc1ed
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Tue Sep 3 20:32:19 2024 -0700
+
+    Deleted Color About Me
+    
+    This category is not needed.
+
+commit 53c064b2416ee48889b4b837fea7f88e75e0613a
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Tue Sep 3 20:24:43 2024 -0700
+
+    Adding Feature Stating Favorite Color
+    
+    Added a category in the page to list favorite color.
+
+commit 815ac319120c6d6b840d9d5e891a4de1fa082856
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Mon Sep 2 20:25:36 2024 -0700
+
+    Complete Revamp of index.html
+    
+    Completed a css style list giving a better design to the header, and information on the page.
+    
+    Created a header to clarify when
+    
+    Created a streamline format to deliver personalized information on the about me page.
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
